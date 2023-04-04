@@ -1,0 +1,6 @@
+1.The terminal is a tool that allows to navigate the file system. it can be used to create, delete, run, copy or move programs and files. The  terminal was the first interface used to navigate through the file system, before graphical user intefaces were created.
+2.The major difference between git and github is that GIT is a version control system that users
+ can use to make sure that they can go back into a certain version of their code. Github is also a version control tool
+that provides similar features, however it also allows for those version to be shared and for other users to create
+ their own versions.
+3.Github is used because it makes version control and coding collaboration easier. 
